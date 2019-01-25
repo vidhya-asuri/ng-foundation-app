@@ -11,6 +11,6 @@ export class AppComponent implements OnInit{
   ngOnInit(){
   $(document).foundation();
   };
-  title = 'ng-foundation-app';
+  title = 'Tour of Heroes';
 
 }
