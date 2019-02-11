@@ -1,4 +1,6 @@
 import { Component,OnInit } from '@angular/core';
+import { HttpClientModule }    from '@angular/common/http';
+
 declare var $:any
 
 @Component({
